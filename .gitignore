@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Environment
+.env
+
+# Test/cache
+.pytest_cache/
+fallback_log.jsonl
+
+# OS
+.DS_Store
